@@ -1,7 +1,7 @@
 # AppleBooru
 
 **AppleBooru** is a Python library for interacting with the Danbooru API. 
-Provides a simple and easy-to-use interface to help developers access and manipulate posts and wiki pages on Danbooru.
+Provides a simple and easy-to-use client to help developers search posts and wiki pages on Danbooru.
 
 ## Key Features
 
